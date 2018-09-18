@@ -1,0 +1,3 @@
+# Example-of-Good-Instructions
+
+In my particular field of study I work within numerous applications within the Adobe Suite. These applications are often very complex, and learning to use the tools within them can be challenging. Over the course of my education, I have ran into countless tutorials, videos, and instructional blogs that have helped aid me through the process of learning to use Adobe applications. These instructions normally included very simple step-by-stup instructions with pictures to help the user overcome the challenge. The pictures were always helpful because it allowed the audience to visually see the steps being acted out. 
